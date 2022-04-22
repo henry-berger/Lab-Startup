@@ -34,7 +34,7 @@ IP address of Squirtle (Blue lights): 172.27.52.193
 
 IP address of Bulbasaur (Green lights): 172.27.196.118
 
-IP address of Charmander (Red lights): 
+IP address of Charmander (Red lights): 172.28.141.13
 
 ## Troubleshooting
 
